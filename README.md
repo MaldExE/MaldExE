@@ -1,3 +1,5 @@
+![MaldExE logo](img/image.png)
+
 - 👋 Hi, I’m @MaldExE
 - 👀 I’m interested in cybersecurity and code
 - 🌱 I’m currently learning cybersecurity with spéciality in red teaming
