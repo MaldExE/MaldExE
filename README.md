@@ -1,4 +1,10 @@
-<div align="center">![MaldExE logo](img/image.png)</div> 
+<img src="img/image.png" 
+        alt="Logo MaldExE" 
+        width="800" 
+        height="600" 
+        style="display: block; margin: 0 auto" />
+
+
 
 - 👋 Hi, I’m @MaldExE
 - 👀 I’m interested in cybersecurity and code
