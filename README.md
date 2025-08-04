@@ -1,4 +1,4 @@
-![MaldExE logo](img/image.png)
+<div align="center">![MaldExE logo](img/image.png)</div> 
 
 - 👋 Hi, I’m @MaldExE
 - 👀 I’m interested in cybersecurity and code
